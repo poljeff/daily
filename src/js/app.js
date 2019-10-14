@@ -1,0 +1,1 @@
+console.log('se ejectua desde el script importado')
